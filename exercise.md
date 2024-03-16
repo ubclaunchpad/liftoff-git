@@ -20,7 +20,7 @@ Now the fun begins...
 * The repo owner assigns each group member a block of three empty lines to work on (2-4, 5-7, 8-10, 11-13).
 * Each group member should then create a new branch and write a haiku on their assigned three lines between the hello world message and goodbye world message.
 * A [haiku](https://en.wikipedia.org/wiki/Haiku) is a three line Japanese poetry form, with five syllables on the first line, seven on the second, and five on the final line.
-* If your creative energies ebb, you can always Google for Haiku generators online, or just use [this one](http://www.everypoet.com/haiku/default.htm).
+* If your creative energies ebb, you can always Google for Haiku generators online, or just use ChatGPT.
 * Once each group member has penned their masterpiece, they should save it and push it to a remote branch on the repo.
 * Everyone should create pull requests all at once - This simulates the worst possible case of four people trying to alter the same file at the same time.
 * Once the pull requests have been created, each group member should take it in turn to review the merge requests.
